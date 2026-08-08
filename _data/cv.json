@@ -1,10 +1,11 @@
 {
   "basics": {
     "name": "Md Rayhan Chowdhury",
+    "label": "Graduate Research Assistant, Electrical & Computer Engineering, Lamar University",
     "email": "rayhan.eee.ruet@gmail.com",
-    "phone": "4099985540",
-    "website": "https://github.com/rayhan-ruet/rayhan.chowdhury.github.io",
-    "summary": "Currently employed at Lamar University. Short biography for the left-hand sidebar",
+    "phone": "(409) 998-5540",
+    "website": "https://rayhaneeeruet.github.io",
+    "summary": "M.S. student in Electrical and Computer Engineering at Lamar University and a member of the HESCA Research Lab, advised by Dr. Farah Ferdaus. My research applies machine learning and deep learning to multi-horizon solar power forecasting, with ongoing work toward net load forecasting, fault detection, and cybersecurity for grid resiliency. Before returning to graduate school I spent twelve years in industry across power plant erection and commissioning, consumer electronics, and electric mobility.",
     "location": {
       "city": "Beaumont",
       "countryCode": "US",
@@ -13,138 +14,324 @@
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
+        "username": "Md Rayhan Chowdhury",
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0000-0000-0000"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "rayhaneeeruet",
+        "url": "https://github.com/rayhaneeeruet"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ask-rayhan",
+        "url": "https://www.linkedin.com/in/ask-rayhan/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Lamar University",
+      "position": "Research Assistant",
+      "website": "https://www.lamar.edu/engineering/electrical/",
+      "startDate": "Jun 2026",
+      "endDate": "Present",
+      "summary": "HESCA Research Lab, Department of Electrical and Computer Engineering. Advised by Dr. Farah Ferdaus.",
+      "highlights": [
+        "Develop machine learning and deep learning models for multi-horizon solar power forecasting on real plant operating data.",
+        "Build comparative pipelines across linear and polynomial regression, random forest, and artificial neural networks, with horizon-resolved RMSE and R-squared evaluation from one to ten days ahead.",
+        "Extend the forecasting framework toward net load forecasting, fault detection, and cybersecurity for grid resiliency.",
+        "Presented research at the 4th Annual Graduate Research Conference, Lamar University, April 2026."
+      ]
+    },
+    {
+      "company": "Lamar University",
+      "position": "Mathematics Tutor (Part-time)",
+      "website": "https://www.lamar.edu/",
+      "startDate": "May 2026",
+      "endDate": "Present",
+      "summary": "One-on-one and small-group tutoring for undergraduate mathematics.",
+      "highlights": []
+    },
+    {
+      "company": "Lamar University",
+      "position": "Student Assistant",
+      "website": "https://www.lamar.edu/",
+      "startDate": "Jun 2025",
+      "endDate": "Jun 2026",
+      "summary": "Beaumont, Texas, United States.",
+      "highlights": []
+    },
+    {
+      "company": "Paragon Group",
+      "position": "Manager, Healthcare Infrastructure Project",
+      "website": "",
+      "startDate": "Sep 2023",
+      "endDate": "Jul 2024",
+      "summary": "Dhaka, Bangladesh. Equipment sourcing and infrastructure planning for a hospital and diagnostic laboratory build-out.",
+      "highlights": [
+        "Sourced and planned advanced medical equipment in coordination with GE Healthcare, Siemens Healthineers, and Toshiba Medical.",
+        "Designed equipment layout and infrastructure requirements for radiology, pathology, and diagnostic laboratory departments.",
+        "Managed vendor communication, import logistics, and site readiness to deliver, install, and commission high-value equipment on schedule.",
+        "Reduced sourcing delays by 15-20% by aligning technical specifications with vendor offerings earlier in the procurement cycle.",
+        "Coordinated with clinical teams and architects to meet international healthcare standards and regulatory compliance."
+      ]
+    },
+    {
+      "company": "Phaewo Distributor",
+      "position": "Key Account Manager, International Business",
+      "website": "",
+      "startDate": "May 2021",
+      "endDate": "Aug 2023",
+      "summary": "Dhaka, Bangladesh (remote). Technical account management for electric mobility products across US, Canadian, and European markets.",
+      "highlights": [
+        "Served as primary technical liaison for electric scooters and e-bikes sold into the USA, Canada, and European markets.",
+        "Built and maintained long-term partnerships with high-profile accounts including FIAT, Maserati, Xiaomi, and Pure Electric.",
+        "Delivered troubleshooting and support to clients across EU countries and US states.",
+        "Resolved technical integration and field performance issues affecting sales of electric mobility products in international markets."
+      ]
+    },
+    {
+      "company": "Transcom Electronics Limited",
+      "position": "Deputy Product Manager, Samsung Consumer Electronics",
+      "website": "",
+      "startDate": "Jan 2020",
+      "endDate": "Jan 2021",
+      "summary": "Dhaka, Bangladesh. Product management for the Samsung Bangladesh portfolio.",
+      "highlights": [
+        "Increased category turnover by 17% and reduced inventory cost by 7% through improved demand forecasting and order management.",
+        "Diagnosed consumer-end product issues to root cause and drove resolution with Samsung Bangladesh.",
+        "Trained more than 50 service engineers to service standards, raising customer satisfaction by 15% year over year."
+      ]
+    },
+    {
+      "company": "Walton Group",
+      "position": "Product Manager, Consumer Electronics",
+      "website": "",
+      "startDate": "Apr 2018",
+      "endDate": "Jan 2020",
+      "summary": "Dhaka, Bangladesh. Air conditioner category ownership.",
+      "highlights": [
+        "Owned sales forecasting, product placement, and promotional planning for the air conditioner category.",
+        "Channeled market feedback to production, R&D, and service teams; secured brand display in 100% of outlets.",
+        "Trained more than 400 sales and service staff on the product line; category sales rose 11% year over year."
+      ]
+    },
+    {
+      "company": "Walton Group",
+      "position": "Sourcing Engineer, Consumer Electronics",
+      "website": "",
+      "startDate": "Oct 2016",
+      "endDate": "Mar 2018",
+      "summary": "Motijheel, Dhaka, Bangladesh. Supplier development and product line expansion.",
+      "highlights": [
+        "Introduced a new blender model as CBU and brought microwave oven assembly in-house as SKD.",
+        "Reduced blender sourcing cost by 7% and microwave oven cost by 9% through supplier relationship development.",
+        "Audited more than 10 manufacturing facilities including Haier and Galanz; attended Canton Fair China 2016 and 2017 and Security China 2016."
+      ]
+    },
+    {
+      "company": "Walton Group",
+      "position": "Service Engineer",
+      "website": "",
+      "startDate": "Sep 2014",
+      "endDate": "Sep 2016",
+      "summary": "Dhaka, Bangladesh. After-sales service network operations.",
+      "highlights": [
+        "Expanded the service network from 42 to 65 customer care points while reducing mobile spare parts consumption by 13%.",
+        "Raised customer satisfaction from 40% to 75% over two years while the customer base doubled.",
+        "Fed recurring failure data back to the product team, reducing the fault ratio by 17%.",
+        "Developed an in-house CRM and rolled it out across more than 65 service points."
+      ]
+    },
+    {
+      "company": "Hyundai Engineering & Construction Co., Ltd.",
+      "position": "Project Planning Engineer",
+      "website": "",
+      "startDate": "Apr 2012",
+      "endDate": "Mar 2014",
+      "summary": "New Haripur 360 MW Combined Cycle Power Plant Project, Narayanganj, Bangladesh.",
+      "highlights": [
+        "Oversaw and monitored erection and commissioning of a 360 MW combined cycle power plant delivered with Marubeni Corporation and JICA alongside more than 30 international vendors including ABB Singapore, Fuji, Mitsubishi, and Emerson.",
+        "Developed and managed project schedules across the electrical, mechanical, and quality control departments.",
+        "Acted as the primary point of contact for clients and suppliers throughout construction.",
+        "Conducted material inspections and reviewed factory acceptance test reports to assess and qualify suppliers.",
+        "Evaluated and approved billing submitted by contractors, vendors, and suppliers.",
+        "Prepared and delivered project progress reports and execution plans to stakeholders and relevant departments."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Lamar University, Beaumont, TX, USA",
+      "area": "M.S. in Electrical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2025",
+      "endDate": "Expected 2027",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "Rajshahi University of Engineering & Technology (RUET), Bangladesh",
+      "area": "B.Sc. in Electrical & Electronic Engineering",
+      "studyType": "Bachelor of Science",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2011",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Power Systems",
+      "level": "Advanced",
+      "keywords": [
+        "ETAP",
+        "PSCAD/EMTDC",
+        "MATLAB/Simulink",
+        "Transient stability analysis",
+        "Load flow analysis",
+        "Short circuit analysis",
+        "Protection coordination",
+        "Power system modeling"
+      ]
+    },
+    {
+      "name": "Machine Learning & Deep Learning",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "scikit-learn",
+        "TensorFlow/Keras",
+        "PyTorch",
+        "Linear & polynomial regression",
+        "Random forest",
+        "Artificial neural networks",
+        "LSTM & GRU for time series"
+      ]
+    },
+    {
+      "name": "Data & Evaluation",
+      "level": "Intermediate",
+      "keywords": [
+        "NumPy",
+        "pandas",
+        "Matplotlib",
+        "seaborn",
+        "Jupyter",
+        "Time-series cross-validation",
+        "RMSE / MAE / R-squared",
+        "Error & uncertainty analysis"
+      ]
+    },
+    {
+      "name": "Field Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "Power plant erection & commissioning",
+        "Switchgear & transformer testing",
+        "Protection relay configuration",
+        "Factory acceptance testing",
+        "Material inspection",
+        "Project scheduling"
+      ]
+    },
+    {
+      "name": "Product & Program Management",
+      "level": "Advanced",
+      "keywords": [
+        "Demand forecasting",
+        "Vendor & supplier management",
+        "Technical procurement",
+        "Cross-functional coordination",
+        "Technical support & troubleshooting",
+        "Training delivery"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Git & GitHub",
+        "Linux shell",
+        "VS Code",
+        "Conda",
+        "LaTeX / Overleaf",
+        "Microsoft Office"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bengali",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Solar power forecasting",
+        "Net load forecasting",
+        "Machine learning & deep learning for energy",
+        "Grid resiliency",
+        "Fault detection & diagnosis",
+        "Power system cybersecurity",
+        "Transient stability analysis",
+        "Renewable energy integration"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
+  "publications": [],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Solar Power Forecasting Using Machine Learning and Deep Learning",
+      "event": "4th Annual Graduate Research Conference, Lamar University",
+      "date": "2026-04-20",
+      "location": "Beaumont, TX, USA",
+      "description": "Poster presentation on multi-horizon solar power forecasting from one to ten days ahead, comparing regression, ensemble, and neural approaches on real plant data."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Undergraduate Mathematics Tutoring",
+      "institution": "Lamar University",
+      "date": "2026-05-01",
+      "role": "Mathematics Tutor (part-time)",
+      "description": "One-on-one and small-group tutoring for undergraduate mathematics courses."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Solar Power Forecasting: 1-10 Days Ahead Using ML and DL",
+      "category": "research code",
+      "date": "2026-04-01",
+      "url": "https://github.com/rayhaneeeruet/Solar-Power-Forecasting-10-Days-Ahead-Using-ML-and-DL",
+      "description": "Multi-horizon solar power forecasting on real plant data, comparing linear regression, polynomial regression, random forest, and an artificial neural network. RMSE and R-squared are reported at every forecast horizon so model degradation with lead time is visible rather than averaged away."
+    },
+    {
+      "name": "Power Grid AI Analytics",
+      "category": "research code",
+      "date": "2026-03-01",
+      "url": "https://github.com/rayhaneeeruet/Power_Grid_AI_Analytics",
+      "description": "AI-driven load forecasting and anomaly detection for power grid analytics: a comparative study across machine learning and deep learning methods, covering feature engineering on grid telemetry, model comparison, and detection of abnormal load behavior."
+    },
+    {
+      "name": "Poster Presentation on Solar Power Forecasting",
+      "category": "presentation",
+      "date": "2026-04-20",
+      "url": "https://github.com/rayhaneeeruet/Poster-Presentation-on-Solar-Power-Forecasting",
+      "description": "Poster and supporting materials presented at the 4th Annual Graduate Research Conference at Lamar University."
     }
   ]
 }
